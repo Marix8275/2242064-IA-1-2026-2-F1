@@ -1,2 +1,2 @@
-# 2242064-IA-1-2026-2-F1
-Detección de la Tiña en Vacas
+![Banner description](images/banner.png)
+# Detección de la Tiña en Vacas
