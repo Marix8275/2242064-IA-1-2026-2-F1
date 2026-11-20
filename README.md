@@ -1,2 +1,2 @@
-![Banner description](images/banner.png)
+![Banner description](banner.png)
 # Detección de la Tiña en Vacas
