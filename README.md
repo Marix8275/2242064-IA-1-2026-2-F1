@@ -1,6 +1,8 @@
 ![Banner](banner.png)
 # Detección de la Tiña en Vacas
--# Orlando José Torres Garzón - 2242064
+(Orlando José Torres Garzón - 2242064)
+
+
 
 Mi proyecto en esta clase se basa en la clasificación de imagenes para detectar que vacas tienen la enfermedad de la tiña.
 
